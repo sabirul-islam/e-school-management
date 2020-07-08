@@ -1,0 +1,42 @@
+h1{
+    font-size: 50px;
+}
+
+.top-banner-background{
+background-color: #F0FFF0;
+}
+
+.second-section-bg{
+    background-color: #F8FFFB;
+    border: none;
+    border-radius: 10px; 
+}
+
+.second-section-bg:hover {
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+/* Font Awsome color*/
+.fa{
+    color: #585859;
+}
+
+
+.online-course-bg{
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.footer-background{
+    background-color: #282531 ;
+    color: white;
+}
+
+.footer-button:hover{
+    background-color: tomato ;
+}
